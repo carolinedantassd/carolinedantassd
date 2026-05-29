@@ -4,8 +4,8 @@
 
 I'm a software developer 👩‍💻 in constant evolution and graduated in mechatronic engineer :robot:. I'm passionate about technologies and open source.
 
-- 🔭 Working: Java Developer at Esig
-- 🌱 Learning : Java, Spring Boot, Angular, AWS, Data Science
+- 🔭 Working: Java Developer at Capgemini
+- 🌱 Learning : Java, Spring Boot, Angular, AWS
 - 💬 Hobbies: watching movies and tv shows
 - 😄 Pronouns: she/her
 - ⚡ Languages: Java, C#, JavaScript, Python, C, C++
